@@ -1,0 +1,499 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "AWSALB",
+      "value": "pNAw6Bp1iHuxNKyRfhYlVOzAzEbnd7pxmQpG+dAXrXPXHZSKv5i88hp4ziA/ShhTPlgYan2EhwVELp/yRdSX6ObVaO1yEIQ1dj1GdYOJMsFwMe/Z2Ww0y+iCXF60",
+      "domain": "www.hired.com",
+      "path": "/",
+      "expires": 1646415671.6873,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "AWSALBCORS",
+      "value": "pNAw6Bp1iHuxNKyRfhYlVOzAzEbnd7pxmQpG+dAXrXPXHZSKv5i88hp4ziA/ShhTPlgYan2EhwVELp/yRdSX6ObVaO1yEIQ1dj1GdYOJMsFwMe/Z2Ww0y+iCXF60",
+      "domain": "www.hired.com",
+      "path": "/",
+      "expires": 1646415671.687583,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ajs_anonymous_id",
+      "value": "d603b744-b8f0-4e06-93f7-1c16183c5714",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "fp3",
+      "value": "6f4dd9b52d0a8d8c10993f37f892c264",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "cookie_consent",
+      "value": "allow",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679762473.676344,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "browser_uuid",
+      "value": "0b053644-8352-4d05-81a4-1614f0eb89c9",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679762473.676358,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "session_uuid",
+      "value": "213272c3-ea09-4312-a995-cd12ccdfa150",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679762473.67637,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "JSESSIONID",
+      "value": "819ad43ad93c2195",
+      "domain": ".nr-data.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ajs_anonymous_id",
+      "value": "%22c082da18-45c6-4fe6-9b30-81dd0bf07646%22",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1677346874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "amplitude_idundefinedhired.com",
+      "value": "eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "amplitude_id_0ab75b83978f0a974b0412e1b80bcff6hired.com",
+      "value": "eyJkZXZpY2VJZCI6IjEwYzg3NTQ5LTU0YTYtNGIzYi1iOTkyLThjZjk3NjQ5ZWZhNFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY0NTgxMDg3NDM3MCwibGFzdEV2ZW50VGltZSI6MTY0NTgxMDg3NDM4MSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MSwic2VxdWVuY2VOdW1iZXIiOjJ9",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1961170874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.1442752700.1645810874",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1708882874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.2.1102901360.1645810874",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1645897274,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat",
+      "value": "1",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1645810934,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gcl_au",
+      "value": "1.1.1885124057.1645810874",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1653586874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_hjSessionUser_97214",
+      "value": "eyJpZCI6IjI2NTI1ZjdiLWU0N2QtNWRlNi1iM2Q1LTcyNWJmMDE1ZWJlMCIsImNyZWF0ZWQiOjE2NDU4MTA4NzQ1MzEsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1677346874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_hjFirstSeen",
+      "value": "1",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1645812674,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_hjIncludedInSessionSample",
+      "value": "0",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1645810994,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_hjSession_97214",
+      "value": "eyJpZCI6Ijg3ZDA5YTY3LTg2NDItNGE0MS05OWEyLWIwYzIyMzhkMGM2MSIsImNyZWF0ZWQiOjE2NDU4MTA4NzQ1NTQsImluU2FtcGxlIjpmYWxzZX0=",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1645812674,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_hjAbsoluteSessionInProgress",
+      "value": "0",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1645812674,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "_rdt_uuid",
+      "value": "1645810874589.9d2f5aac-192d-4393-8299-71d0cd7344c8",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1653586874,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "_session_id",
+      "value": "cc0342b2c8fb343f7ac2e53742accb4e",
+      "domain": "tracking.g2crowd.com",
+      "path": "/",
+      "expires": 1647020474.754384,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__cf_bm",
+      "value": "_fTMcPZwwPFKU.VwNds9V8KZQoteCW4CnbcNLFJyB6c-1645810874-0-AeD0y6xJtaUQgrVU/rLprreIF/w3ptoymDIgvJ8BUQtn4MJ6OO7aiFajqY4i6V6tnn3/flFp/A6WaiMXkRprJX0=",
+      "domain": ".g2crowd.com",
+      "path": "/",
+      "expires": 1645812674.754427,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_mkto_trk",
+      "value": "id:289-SIY-439&token:_mch-hired.com-1645810874762-56412",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1708882874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_fbp",
+      "value": "fb.1.1645810874861.1324890855",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1653586874,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "session_last_seen_at",
+      "value": "1645810874",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679762474.144427,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "locale",
+      "value": "en-GB",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1653496874.144443,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "hired_user_type",
+      "value": "candidate",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679766074.144457,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "hired_candidate_status",
+      "value": "approved",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1679766074.144474,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "root_page_redirect_to",
+      "value": "%2Flogin",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "root_page_redirect_experiment",
+      "value": "true",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_session_id",
+      "value": "864bc1f389f6c60f2fff0012f0934d94",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "_RCRTX03-samesite",
+      "value": "213733dc966211ec8567db7acc376873d85431cd79a847bc8c072ff989bc3fec",
+      "domain": ".recruitics.com",
+      "path": "/",
+      "expires": 1961170875.01886,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_RCRTX03",
+      "value": "213733dc966211ec8567db7acc376873d85431cd79a847bc8c072ff989bc3fec",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1961170875,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_RCRTX03-samesite",
+      "value": "213733dc966211ec8567db7acc376873d85431cd79a847bc8c072ff989bc3fec",
+      "domain": ".hired.com",
+      "path": "/",
+      "expires": 1961170875,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "UserMatchHistory",
+      "value": "AQI9H5JAe2MsSQAAAX8x-PowSqjhwPCh55zaqL1ZLVd7xTW1Xxv3EDOTKGG6qfKFtB5nG6VKRZA_Ng",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1648402875.031798,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "AnalyticsSyncHistory",
+      "value": "AQK4BXrrkb3GjQAAAX8x-PowLlUohBr8Y6_VSjxVQoLxtFs-X_JL8U0obPuYX8Vjz8RPz5Ap2nE3UsQmIVJQSA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1648402875.031836,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".ads.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "bcookie",
+      "value": "\"v=2&3e3f5d5f-a45a-4ab1-89a8-7386b9cc1d43\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1708924727.031865,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "lidc",
+      "value": "\"b=OGST01:s=O:r=O:a=O:p=O:g=2636:u=1:x=1:i=1645810874:t=1645897274:v=2:sig=AQGXS2KEIBBnG_phpv56JZDlSA7XEX3b\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1645897275.031887,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "muc_ads",
+      "value": "8ced81eb-4924-494b-ae40-5704cda292f5",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1708882875.046539,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "personalization_id",
+      "value": "\"v1_Lw2KYmXQYKiPEqfvsAgxyQ==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1708882875.048369,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "AWSALB",
+      "value": "3Yg41fFFHk6V8cKY2rILpZXvdd4SCCPK6JyV64Vi8kHiqBPLQqnhGVBM8wDtQ6zQxVrCLKJDcW58T94Zv6mM+BcYvBrlQLi61aSyRo2kW2jHvBX5EfAyG1iakU5/",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1646415674.144349,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "AWSALBCORS",
+      "value": "3Yg41fFFHk6V8cKY2rILpZXvdd4SCCPK6JyV64Vi8kHiqBPLQqnhGVBM8wDtQ6zQxVrCLKJDcW58T94Zv6mM+BcYvBrlQLi61aSyRo2kW2jHvBX5EfAyG1iakU5/",
+      "domain": "hired.com",
+      "path": "/",
+      "expires": 1646415674.144407,
+      "httpOnly": false,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hired.com",
+      "localStorage": [
+        {
+          "name": "ub-emb-d07ede2e-292e-4792-86f9-eba83fd2b3f7",
+          "value": "{\"events\":[],\"variantLetter\":\"a\"}"
+        },
+        {
+          "name": "ub-emb-ee803fbe-7f02-4966-b792-1c13c8ad5d4a",
+          "value": "{\"events\":[],\"variantLetter\":\"a\"}"
+        },
+        {
+          "name": "ajs_group_id",
+          "value": "null"
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        },
+        {
+          "name": "ub-emb-4fa251a3-2e55-4186-9904-e7050960de20",
+          "value": "{\"events\":[],\"variantLetter\":\"b\"}"
+        },
+        {
+          "name": "amplitude_unsent_0ab75b83978f0a974b0412e1b80bcff6",
+          "value": "[{\"device_id\":\"10c87549-54a6-4b3b-b992-8cf97649efa4R\",\"user_id\":null,\"timestamp\":1645810874381,\"event_id\":1,\"session_id\":1645810874370,\"event_type\":\"Loaded a Page\",\"version_name\":null,\"platform\":\"Web\",\"os_name\":\"Chrome\",\"os_version\":\"100\",\"device_model\":\"Windows\",\"language\":\"en-US\",\"api_properties\":{},\"event_properties\":{\"path\":\"/login\",\"referrer\":\"https://hired.com/login\",\"search\":\"?cookie_consent=true\",\"title\":\"Sign In - Hired\",\"url\":\"https://hired.com/login?cookie_consent=true\"},\"user_properties\":{},\"uuid\":\"01810183-c679-4605-bd45-8b73cf98cc56\",\"library\":{\"name\":\"amplitude-js\",\"version\":\"5.2.2\"},\"sequence_number\":2,\"groups\":{},\"group_properties\":{},\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4863.0 Safari/537.36\"}]"
+        },
+        {
+          "name": "ajs_group_properties",
+          "value": "{}"
+        },
+        {
+          "name": "ub-emb-id",
+          "value": "0d56ca8504114abeb1995e8e3c10ccad"
+        },
+        {
+          "name": "viewer_id_v3",
+          "value": "213733dc966211ec8567db7acc376873d85431cd79a847bc8c072ff989bc3fec"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"c082da18-45c6-4fe6-9b30-81dd0bf07646\""
+        },
+        {
+          "name": "debug",
+          "value": "undefined"
+        },
+        {
+          "name": "amplitude_unsent_identify_0ab75b83978f0a974b0412e1b80bcff6",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
